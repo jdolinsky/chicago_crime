@@ -4,3 +4,4 @@ https://www.geeksforgeeks.org/plotting-multiple-bar-charts-using-matplotlib-in-p
 
 https://stackoverflow.com/questions/48042915/sort-a-pandas-dataframe-series-by-month-name
 
+https://pypi.org/project/folium/
