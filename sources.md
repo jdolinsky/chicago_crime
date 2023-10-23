@@ -1,16 +1,14 @@
-https://www.geeksforgeeks.org/matplotlib-figure-figure-set_edgecolor-in-python/
-
-https://www.geeksforgeeks.org/plotting-multiple-bar-charts-using-matplotlib-in-python/
-
+Sorting data by month in chronological order:
 https://stackoverflow.com/questions/48042915/sort-a-pandas-dataframe-series-by-month-name
 
+Folium package documentation for choropleth:
 https://pypi.org/project/folium/
 
+More assistance with using folium to create choropleth maps:
 https://towardsdatascience.com/creating-choropleth-maps-with-pythons-folium-library-cfacfb40f56a
 
+Data for the average monthly temperatures:
 https://www.weather.gov/wrh/Climate?wfo=lot
 
-My matplotlib Homework
+My matplotlib Homework to assist with the scatter plot:
 https://github.com/griffinracey/matplotlib-challenge
-
-https://stackoverflow.com/questions/46011785/how-to-do-superscripts-and-subscripts-in-jupyter-notebook
