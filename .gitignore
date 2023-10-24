@@ -1,9 +1,6 @@
 # Data folder with the data file
 data/
 
-# analysis notebook with uncleaned work
-analysis.ipynb
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
