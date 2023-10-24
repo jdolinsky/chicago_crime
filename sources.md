@@ -12,3 +12,6 @@ https://www.weather.gov/wrh/Climate?wfo=lot
 
 My matplotlib Homework to assist with the scatter plot:
 https://github.com/griffinracey/matplotlib-challenge
+
+Chicago Boundaries for community areas:
+https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6
