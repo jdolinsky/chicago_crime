@@ -22,7 +22,7 @@ Dataset Source: City of Chicago
 
 Category: Chicago, Public Safety
 
-## Chorpleth Map Discussion
+## Choropleth Map Discussion
 
 We wanted to show this visualization of the different community areas in Chicago to show that there are many factors to consider when looking at crime data. Many times we just look at the overall numbers but they don't always take into account factors like where you are in the city, the time of day, and time of year. This map shows that different areas of the city can vary greatly in the amount of crime they experience. The community area with the most amount of crime is Austin with 61,169 crimes in our dataset, and the area with the least was Edison Park with 1,284. We would have preferred to use crime rate (per capita) but I was not able to find reliable and recent data for population by community area. 
 
