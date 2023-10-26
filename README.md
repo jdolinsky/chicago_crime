@@ -57,3 +57,9 @@ $H_{a}$: There is a linear relationship between average monthly temperature and 
 p-val = .0000385
 
 Since our p-value is less than 0.05, we can reject the null hypothesis. There is sufficient evidence that there is a linear relationship between the average monthly temperature and monthly crime total.
+
+## What categories of crime exhibited the greatest increase during COVID?
+
+* The crime category with the largest increase in 2020 was HOMICIDE. The homicide rate in Chicago increased by almost 57% in 2020.
+* The category with the second-highest increase in 2020 was ARSON, at 56%.
+* The category with the third-highest increase in 2020 was WEAPONS VIOLATIONS, at 33%.
