@@ -63,3 +63,10 @@ Since our p-value is less than 0.05, we can reject the null hypothesis. There is
 * The crime category with the largest increase in 2020 was HOMICIDE. The homicide rate in Chicago increased by almost 57% in 2020.
 * The category with the second-highest increase in 2020 was ARSON, at 56%.
 * The category with the third-highest increase in 2020 was WEAPONS VIOLATIONS, at 33%.
+
+## Which Categories of Crime saw the greatest decrease during COVID?
+
+* The category with the greatest decrease in 2020 was THEFT.
+    Rate's decreased by 34%
+* The category with the second-highest decrease was BATTERY by nearly 17%
+* Overall, THEFTS decreased in the greatest volume in the Loop and Near North Communities.
